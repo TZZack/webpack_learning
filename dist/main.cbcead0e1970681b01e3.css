@@ -1,0 +1,16 @@
+/*!*********************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[1].use[2]!./node_modules/less-loader/dist/cjs.js!./src/assets/style/common.less ***!
+  \*********************************************************************************************************************************************************************************************/
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  background-color: #ccc;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-transform: rotate(30deg);
+          transform: rotate(30deg);
+}
+
