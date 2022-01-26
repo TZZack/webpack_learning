@@ -1,0 +1,36 @@
+{
+  "name": "webpack_learning",
+  "version": "1.0.0",
+  "description": "webpack_learning_project",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack --config webpack.config.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TZZack/webpack_learning.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TZZack/webpack_learning/issues"
+  },
+  "homepage": "https://github.com/TZZack/webpack_learning#readme",
+  "devDependencies": {
+    "autoprefixer": "^10.4.2",
+    "clean-webpack-plugin": "^4.0.0",
+    "css-loader": "^6.5.1",
+    "file-loader": "^6.2.0",
+    "html-webpack-plugin": "^5.5.0",
+    "less": "^4.1.2",
+    "less-loader": "^10.2.0",
+    "mini-css-extract-plugin": "^2.5.2",
+    "postcss": "^8.4.5",
+    "postcss-loader": "^6.2.1",
+    "postcss-preset-env": "^7.2.3",
+    "style-loader": "^3.3.1",
+    "url-loader": "^4.1.1",
+    "webpack": "^5.67.0",
+    "webpack-cli": "^4.9.1"
+  }
+}
